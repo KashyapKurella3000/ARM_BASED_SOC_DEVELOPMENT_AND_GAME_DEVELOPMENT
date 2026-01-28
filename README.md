@@ -5,3 +5,7 @@
 • Designed interrupt-enabled AHB-lite peripherals (UART, VGA, GPIO, 7-Segment Display, Timer) using Verilog HDL.
 
 • Built multi-player Snake & Tic-Tac-Toe games in ARM assembly and C, handling keyboard interrupts via USB-UART.
+
+• Project files can be downloaded from here "Tic_Tac_Toe_Game.zip"
+
+
